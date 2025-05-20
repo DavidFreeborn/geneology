@@ -734,12 +734,9 @@
 <!-- 30711 -->
 <g id="node76" class="node">
 <title>30711</title>
-<g id="a_node76"><a xlink:href="https://en.wikipedia.org/wiki/Archduke_Charles,_Duke_of_Teschen" xlink:title="Charles Louis Suffel&#10;Polytechnic University (1969)">
-<polygon fill="#e6f2ff" stroke="blue" points="1277,-1326 1096,-1326 1096,-1288 1277,-1288 1277,-1326"/>
-<text text-anchor="middle" x="1186.5" y="-1310.8" font-family="Times,serif" font-size="14.00" fill="blue">Charles Louis Suffel</text>
-<text text-anchor="middle" x="1186.5" y="-1295.8" font-family="Times,serif" font-size="14.00" fill="blue">Polytechnic University (1969)</text>
-</a>
-</g>
+<polygon fill="none" stroke="black" points="1277,-1326 1096,-1326 1096,-1288 1277,-1288 1277,-1326"/>
+<text text-anchor="middle" x="1186.5" y="-1310.8" font-family="Times,serif" font-size="14.00">Charles Louis Suffel</text>
+<text text-anchor="middle" x="1186.5" y="-1295.8" font-family="Times,serif" font-size="14.00">Polytechnic University (1969)</text>
 </g>
 <!-- 14701&#45;&gt;30711 -->
 <g id="edge109" class="edge">
